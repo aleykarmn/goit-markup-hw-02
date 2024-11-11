@@ -95,3 +95,53 @@ body{
     letter-spacing: 0.02em;
 }
 
+.section-three{
+    background-color: #f4f4fd;
+}
+
+.three-h2{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.three-li{
+   background-color: #FFFFFF;
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 1.2;
+   letter-spacing: 0.02em;
+   color: #2e2f42;
+}
+
+.three-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+}
+
+.four-h2{
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.section-four img{
+    width: 360;
+}
+
+.footer-class{
+    color: #2e2f42;
+}
+
+.footer-p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
