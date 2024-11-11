@@ -32,7 +32,7 @@ body{
 }
 
 .studio-li:focus {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 
 .address-c{
@@ -99,7 +99,7 @@ body{
     background-color: #f4f4fd;
 }
 
-.three-h2{
+.three-h3{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -121,23 +121,24 @@ body{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-
 }
 
-.four-h2{
+.four-h3{
     font-size: 36px;
     text-align: center;
     letter-spacing: 0.02em;
+    line-height: 1.11;
     text-transform: capitalize;
-    color: #2e2f42;
+    color: #2e2f42;  
 }
 
-.section-four img{
-    width: 360;
+.four-p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 footer{
-    color: #2e2f42;
+    background-color: #2e2f42;
 }
 
 .footer-p{
