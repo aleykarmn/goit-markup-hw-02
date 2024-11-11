@@ -100,6 +100,16 @@ body{
 }
 
 .three-h3{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.three-h2{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -118,6 +128,7 @@ body{
 }
 
 .three-p{
+    color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -130,14 +141,15 @@ body{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    
+
 }
 
 .four-h3{
-    font-size: 36px;
+    font-size: 20px;
+    font-weight: 500;
     text-align: center;
     letter-spacing: 0.02em;
-    line-height: 1.11;
+    line-height: 1.2;
     text-transform: capitalize;
     color: #2e2f42;  
 }
