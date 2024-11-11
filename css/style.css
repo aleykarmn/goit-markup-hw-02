@@ -9,7 +9,7 @@ body{
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5 ;
 }
@@ -31,23 +31,23 @@ body{
 }
 
 .studio-li:focus {
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
-.addres-c{
+address{
     font-style: normal;
 }
 
-.mail-c{
+.adress-li{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.mail-c:hover{
+.adress-li:hover{
     color: #404bbf;
 }
 
-.mail-c:focus {
+.adress-li:focus {
     color: #404bbf;
 }
 
@@ -55,11 +55,11 @@ body{
     background-color: #2e2f42;
 
 }
-.h1-so{
+.h1-class{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #ffffff;
 }
 
@@ -78,7 +78,7 @@ body{
 }
 
 .order-bt:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 
