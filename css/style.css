@@ -11,11 +11,12 @@ body{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5 ;
+    color: #4d5ae5;
 }
 
 .studio-s{
-    color: #2e2f42 ;
+    color: #2e2f42;
+    letter-spacing: 0.03em;
 }
 
 .studio-li{
@@ -34,7 +35,7 @@ body{
     background-color: #404bbf;
 }
 
-address{
+.address-c{
     font-style: normal;
 }
 
@@ -81,4 +82,16 @@ address{
     background-color: #404BBF;
 }
 
+.sections-li h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.sections-li p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 
